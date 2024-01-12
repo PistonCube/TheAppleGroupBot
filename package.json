@@ -1,0 +1,22 @@
+{
+  "name": "applebot",
+  "version": "1.0.0",
+  "description": "a simple bot coded by PistonCube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "PistonCube",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "minecraft-protocol": "^1.45.0",
+    "mineflayer": "^4.17.0",
+    "mineflayer-chat": "^0.0.1",
+    "mineflayer-cmd": "^1.1.3"
+  }
+}
